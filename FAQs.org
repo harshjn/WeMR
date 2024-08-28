@@ -1,17 +1,25 @@
 * List of Potential Challenges/FAQs
 
 ** Can the project be only theory/simulation or also be experimental?
+The projects can indeed be experimental and we encourage that students get some hands-on experience and work on building small projects, such as electronics based projects with a research element in them, or work on basic science problems. Buying high-end equipment is not as much necessary for this as having a keen eye for the world around us can lead to a lot of interesting projects. 
 
-** What if the students/mentors don't respond over a long period of time / are unavailable.
-There can be a mediator or organiser/s, who handles essential communications with the students/mentors from the beginning and can be considered while requiring help.
-** What can be done if the expected amount of work is not completed in stipulated time?
-Whatever learning and tasks have been done during the project can be submitted in the form of a report. Research projects can often take a long time to finish (years) and despite the efforts to keep the problem small, it can sometimes get out of hand. However, a lot of learning can be derived from work that has been done over a period of months. 
 
 ** Are students/mentors going to work on cutting-edge research problems?
-Being a small internship, this is not feasible. Therefore doing complicated or ambitious projects may take learning out from the internship. Even if a simple data collection and analysis work is done thoroughly, students may learn some thing real about what is research. Given that there are documentaries and video content available on-line which presents a rather exaggerated picture of discovery, one of the aims of this research program is to show to students that curiosity driven problems and questions can be answered slowly and methodologically. 
+Being a small internship, this is not feasible. Therefore doing complicated or ambitious projects may take learning out from the internship. Even if a simple data collection and analysis work is done thoroughly, students may learn some thing real about what is research. Given that there are documentaries and video content available on-line which presents a rather exaggerated picture of discovery, one of the aims of this research program is to show to students that curiosity driven problems and questions can be answered slowly and
 
-** Are the previous project reports available on-line? Can I use them freely or How to cite them? 
 
 ** What are essential things I should know regarding research before I join the program? 
-Some preliminaries for research are Work discipline, Work Ethics, Organisation and Documentation. These are the things that we focus on as our primary learning goal. After that one should have an understanding regarding Collaboration, identifying problems and how to tackle problems, credit sharing and more. The Code of Conduct we follow at WeMR can be found in [[github.com/harshjn/WeMR/WorkDiscipline.org][Work Discipline]]. 
+Some preliminaries for research are Work discipline, Work Ethics, Organisation and Documentation. These are the things that we focus on as our primary learning goal. After that one should have an understanding regarding Collaboration, identifying problems and how to tackle problems, credit sharing and more. The Code of Conduct we follow at WeMR can be found in [[github.com/harshjn/WeMR/WorkDiscipline.org][Work Discipline]]. These are valid across scientific disciplines. 
 
+
+** How long do typical projects last? 
+
+
+** What should be done if the students/mentors join but don't respond over a long period of time / are unavailable.
+There can be a mediator or organiser/s, who handles essential communications with the students/mentors from the beginning and can be considered while requiring help.
+
+** What can be done if the expected amount of work is not completed in stipulated time?
+Whatever learning and tasks have been done during the project can be submitted in the form of a report. Research projects can often take a long time to finish (years) and despite the efforts to keep the problem small, it can sometimes get out of hand. However, a lot of learning can be derived from work that has been done over a period of months. 
+ methodologically. 
+
+** Are the previous project reports available on-line? Can I use them freely or How to cite them? 
