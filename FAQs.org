@@ -11,3 +11,7 @@ Whatever learning and tasks have been done during the project can be submitted i
 Being a small internship, this is not feasible. Therefore doing complicated or ambitious projects may take learning out from the internship. Even if a simple data collection and analysis work is done thoroughly, students may learn some thing real about what is research. Given that there are documentaries and video content available on-line which presents a rather exaggerated picture of discovery, one of the aims of this research program is to show to students that curiosity driven problems and questions can be answered slowly and methodologically. 
 
 ** Are the previous project reports available on-line? Can I use them freely or How to cite them? 
+
+** What are essential things I should know regarding research before I join the program? 
+Some preliminaries for research are Work discipline, Work Ethics, Organisation and Documentation. These are the things that we focus on as our primary learning goal. After that one should have an understanding regarding Collaboration, identifying problems and how to tackle problems, credit sharing and more. The Code of Conduct we follow at WeMR can be found in [[github.com/harshjn/WeMR/WorkDiscipline.org][Work Discipline]]. 
+
