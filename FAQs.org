@@ -1,1 +1,13 @@
+* List of Potential Challenges/FAQs
+** Are the previous project reports available on-line? Can I use them freely or How to cite them? 
+
+** Can the project be only theory/simulation or also be experimental?
+
+** What if the students/mentors don't respond over a long period of time / are unavailable.
+There can be a mediator or organiser/s, who handles essential communications with the students/mentors from the beginning and can be considered while requiring help.
+** What can be done if the expected amount of work is not completed in stipulated time?
+Whatever learning and tasks have been done during the project can be submitted in the form of a report. Research projects can often take a long time to finish (years) and despite the efforts to keep the problem small, it can sometimes get out of hand. However, a lot of learning can be derived from work that has been done over a period of months. 
+
+** Are students/mentors going to work on cutting-edge research problems?
+Being a small internship, this is not feasible. Therefore doing complicated or ambitious projects may take learning out from the internship. Even if a simple data collection and analysis work is done thoroughly, students may learn some thing real about what is research. Given that there are documentaries and video content available on-line which presents a rather exaggerated picture of discovery, one of the aims of this research program is to show to students that curiosity driven problems and questions can be answered slowly and methodologically. 
 
